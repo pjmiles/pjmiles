@@ -5,17 +5,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ponmileadebisi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ponmileadebisi/)](https://www.linkedin.com/in/ponmileadebisi/) [![Twitter Badge](https://img.shields.io/badge/-@adebisiponmile-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/adebisiponmile)](https://twitter.com/adebisiponmile)
 
 
-- I’m currently learning **JavaScript, React, Front-end development, Node.js and Express.**
-
-- Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-
-- I love playing Piano when am not coding.
+- I’m currently learning **JavaScript, React & TypeScript.**
 
 - I’m looking to collaborate on open source projects, hackathons and junior-level opportunities.
 
 - Ask me about **React, JavaScript and Express**.
 
-- Job interests: Software Engineer, Front Engineer, or UI Engineer.
+- Job interests: Software Engineer, Frontend Engineer.
+
+- Fun fact: I love playing Piano and Sound Engineering.
 
 - You can to reach me via [Linkedin](https://linkedin.com/in/ponmileadebisi) or by emailing **ponmileadebisi@gmail.com**.
 
